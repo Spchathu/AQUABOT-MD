@@ -9,7 +9,7 @@
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
-            "description": "",
+            "description": "AQUA=dsJ00AzL#yDVCykLoYCatvmRLEZOGkeurVtPSyikqWw7RmeAbKhY",
             "required": true
              },
             "NO_ONLINE": {
@@ -29,27 +29,27 @@
              },
             "ONLY_GROUP": {
             "description": "",
-            "value": "false" ,    
+            "value": "true" ,    
             "required": true
              },
              "REMOVE_BG_API_KEY": {
-            "description": "",
+            "description": "Ls9LppR4CEuGZ2Fohb3EeZHZ",
             "required": true
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "Mihiruk Dilshan" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "94766969406" ,
             "required": true
              },
        
             "AUTO_REACT": {
             "description": "",
-            "value": "false" ,
+            "value": "true",
             "required": true
              },
            
@@ -90,12 +90,12 @@
       },
        "INBOX_BLOCK": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
       },
        "INBOX_BLOCK_MSG": {
             "description": "",
-            "value": "default" ,
+            "value": "*🧜‍♀️💬ALL INBOX MESSAGES  ARE BLOCKED BY OWNER*" ,
             "required": true
       },
       "ALIVE_MESSAGE": {
@@ -151,7 +151,7 @@
       },
          "SUDO": {
             "description": "",
-            "value": "" ,
+            "value": "Mihiruk" ,
             "required": false
       },
          "LANGUAGE": {
@@ -166,11 +166,11 @@
       },
          "HEROKU_API_KEY": {
             "description": "",
-            "value": "" ,
+            "value": "e3247519-d238-4a5c-b6f1-272c18371a73" ,
             "required": true
       },
          "HEROKU_APP_NAME": {
-            "description": "",
+            "description": "aquemdov",
             "value": "" ,
             "required": true
       },
